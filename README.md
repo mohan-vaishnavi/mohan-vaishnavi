@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mohan-vaishnavi
-- 👀 I’m interested in data science and analytics 
+- 👀 I’m interested in data science and analytics, especially NLP and text analytics!
 - 📫 How to reach me: email on vaishnavi.mohan87@gmail.com
 
 <!---
